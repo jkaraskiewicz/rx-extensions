@@ -31,11 +31,11 @@ kapt {
 
 dependencies {
 
-    final SUPPORT_LIBRARY_VERSION = '25.2.0'
+    final SUPPORT_LIBRARY_VERSION = '25.3.0'
     final DAGGER_VERSION = '2.9'
     final TIMBER_VERSION = '4.5.1'
     final RXANDROID_VERSION = '2.0.1'
-    final RXJAVA_VERSION = '2.0.6'
+    final RXJAVA_VERSION = '2.0.7'
     final ANNOTATION_JSR250 = '1.0'
 
     compile "org.jetbrains.kotlin:kotlin-stdlib:$rootProject.ext.kotlin_version"
